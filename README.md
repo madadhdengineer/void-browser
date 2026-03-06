@@ -1,2 +1,3 @@
-# pyBrowser
-[POC] Web browser in Python/QtWebEngine.
+# VÖID, a new full-featured web browser!
+
+(coming soon...)
